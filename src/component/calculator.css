@@ -4,7 +4,8 @@
 }
 .button{
     display: block;
-    padding-top: 10%;
+    padding-top: 1%;
+    position: relative;
 }
 
 .result{
@@ -15,4 +16,13 @@ button{
     width: 25%;
     height: 60px;
     font-size: 22px;
+}
+.history{
+    font-size: 23px;
+
+    display: block;
+    padding-top: 10%;
+    position: absolute;
+    top: 10px;
+    right: 50px;
 }
